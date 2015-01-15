@@ -14,7 +14,7 @@ exports.Main = Component.specialize(/** @lends Main# */ {
             this.super();
         }
     },
-    defaultValue: {
-        value:    
+    defaultValue: {    //adding a property 
+        value: "world"   
     }
 });
